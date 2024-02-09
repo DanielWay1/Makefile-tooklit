@@ -1,0 +1,6 @@
+# Ignore any binaries and Emacs backups.
+test
+*.o
+*~
+*.h
+*.cpp
